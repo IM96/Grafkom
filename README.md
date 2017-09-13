@@ -1,0 +1,2 @@
+# Grafkom
+Computer Graphic assignment
